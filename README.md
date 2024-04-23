@@ -1,6 +1,6 @@
 <h1 align="center">HR Analytics Power BI Project</h1>
 <p align="center">
-<img src="https://techcrunch.com/wp-content/uploads/2020/03/AFRICA-COVID-19-IV.png">
+<img src="Hr image.png">
 
 
 ➣ Description:<p>In this repository, you'll find my comprehensive HR Analytics Power BI project. Through meticulous data analysis and visualization, I've delved into various facets of HR, including employee demographics, performance metrics, retention rates, and more. This project is a testament to my proficiency in data analytics, visualization, and HR domain knowledge..</p>
