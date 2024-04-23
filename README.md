@@ -16,5 +16,5 @@ Whether you're an HR professional, a data enthusiast, or simply curious about th
 
 
 ## Data Sources:
-     HR Analytics datasets from Kaggle.
+HR Analytics datasets from Kaggle.
 
