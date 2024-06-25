@@ -20,7 +20,7 @@ Employee Count by Department and Gender: Calculated fields to show the distribut
 Buttons for Navigation: Created buttons that allow users to navigate to specific sheets or return to the home page, improving the user experience.<br>
 Decision Trees for Attrition Analysis.<br>
 Sum of Attrition Count: Visualizes the total attrition count based on department and job role.<br>
-Attrition Ratio: Visualizes the attrition ratio based on department and job role.<br>
+Attrition Ratio: Visualizes the attrition ratio based on Education Felid And Salary slab.<br>
 
 #### Q&A Sheet
 Includes four key questions to provide deeper insights:<br>
