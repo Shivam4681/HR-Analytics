@@ -3,16 +3,28 @@
 <img src="Hr image.png">
 
 
-## Overview
-This repository contains an HR analytics dashboard developed using Power BI. The dashboard provides insights and visualizations based on the HR dataset from Kaggle.
+## Project Features 
+#### Visualizations
+Column Charts: Used to compare different categories of data, such as employee count by department.
+Donut Charts: Provide a quick view of proportions within a category, like gender distribution.
+Area Charts: Show changes over time, such as trends in employee attrition.
+Tables: Display detailed data in a structured format for easy reading and comparison.
+KPIs (Key Performance Indicators): Highlight crucial metrics like average income and average salary.
 
-## Highlights of the project:
+#### Calculated Fields
+Average Income: A calculated field to determine the average income of employees.
+Average Salary: Another calculated field to determine the average salary across the organization.
+Employee Count by Department and Gender: Calculated fields to show the distribution of employees by department and gender.
 
-Data Exploration: Deep dive into HR datasets to uncover patterns and trends.<br>
-Visualization: Engaging and insightful dashboards created using Power BI for easy interpretation.<br>
-Metrics Tracking: Tracking key HR metrics such as employee turnover, performance ratings, and diversity statistics.<br>
-Predictive Analysis: Utilizing predictive modeling techniques to forecast future HR trends and outcomes.<br>
+#### Navigation Enhancements
+Buttons for Navigation: Created buttons that allow users to navigate to specific sheets or return to the home page, improving the user experience.
+Decision Trees for Attrition Analysis
+Sum of Attrition Count: Visualizes the total attrition count based on department and job role.
+Attrition Ratio: Visualizes the attrition ratio based on department and job role.
 
-Whether you're an HR professional, a data enthusiast, or simply curious about the intersection of HR and analytics, this project offers valuable insights and serves as a showcase of my skills and expertise in the field.
-
+#### Q&A Sheet
+Includes four key questions to provide deeper insights:
+What is the average number of years employees spend in their current role?
+How do education levels compare with attrition count?
+(Add two more relevant questions based on your data and analysis)
 
